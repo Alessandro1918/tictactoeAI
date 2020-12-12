@@ -1,20 +1,23 @@
-# tictactoeAI
+# :video_game: tictactoeAI
 Test your Tic-Tac-Toe abilities against a computer!
 
 <p align="center">
   <img alt="printscreen from terminal" width="400px" src="./printscreen.png" />
 <p>
   
-## Intro
+  
+## :clipboard: Intro
 Play a game of Tic-Tac-Toe against a machine! The computer will use an Artificial Intelligence algorithm to make the best move, so don´t be surprised if you can´t do better than a tie!
 
-## How to run it
 
-- ### **Requirements**
+## :hammer_and_wrench: Requirements
 
   - [Python 3.x](https://www.python.org/downloads/)
   - [pygame](https://www.pygame.org/)
-  
+
+
+## :arrow_forward: How to run it
+
 1. Clone this repository:
 
 ```sh
